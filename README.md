@@ -1,2 +1,3 @@
-# java-app-nexus
-for nexus projects ( Publishing Artifact to Repository)
+##### build the project
+
+    gradle build
